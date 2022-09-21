@@ -5,8 +5,15 @@
     padding: 20px;
     justify-content: space-between;
 }
+.orange-color{
+    background-color: #fceae8;
+    border-radius: 12px;
+    margin-bottom: 130px;
+    height: 300px;
+}
 .pic-radius{
     border-radius: 12px;
+    
 }
 .Buy{
     color:rgba(233, 25, 153, 0.922) ;
@@ -18,4 +25,34 @@
     color: whitesmoke;
     font-size: x-large;
     border-color:rgba(233, 25, 153, 0.922) ;
+}
+.noneborder{
+    border: none;
+    box-shadow: 3px 3px 25px gray;
+    
+}
+
+#Backpack{
+    margin-bottom: 100px;
+}
+#shoes{
+    margin-bottom: 100px;
+}
+.faka img{
+    height: 80px;
+}
+.navegation{
+    margin: 0 105px 0 105px;
+}
+.cat1, .cat2, .cat3{
+    padding: 20px;
+    border-radius: 15px;
+    color: whitesmoke;
+}
+.cat1{background-color: rgba(245, 210, 10, 0.955);}
+.cat2{background-color:rgba(233, 25, 153, 0.922) ;}
+.cat3{background-color: rgb(42, 42, 180);}
+.faka{margin: 100px ;}
+#center2{
+    text-align: center;
 }
